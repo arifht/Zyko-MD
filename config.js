@@ -39,13 +39,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6281325175426', 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+['6285741580627', 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282124690625'
-global.nomorown = '6281386943282'
+global.nomorbot = '6281325175426'
+global.nomorown = '6285741580627'
 global.nomorown1 = '6281386943282'
 global.nomorown2 = '6281386943282'
 global.nomorwa = '0'
@@ -54,43 +54,43 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.author = 'Created By ARIF𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ARIF𝗕𝗼𝘁𝘇-𝗠𝗗'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wm2 = 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
-global.stickpack = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `ARIF𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.stickpack = 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.stickauth = `© ARIF𝗕𝗼𝘁𝘇-𝗠𝗗`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= 'ARIF𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown2 = 'ARIG𝗕𝗼𝘁𝘇-𝗠𝗗'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
+global.sig = 'https://instagram.com/arifht08'
+global.sgh = 'https://github.com/arifht' //github
 global.sgc = 'https://chat.whatsapp.com/B9PTc9PZbBH0INkdEN07ws' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://chat.whatsapp.com/B9PTc9PZbBH0INkdEN07ws'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = '085741580627'
+global.povo = '085741580627'
+global.pgopay = '085741580627'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '085741580627'
+global.ppulsa2 = '085741580627'
+global.psaweria = 'https://saweria.co/arifht'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
